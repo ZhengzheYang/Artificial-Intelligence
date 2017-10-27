@@ -1,4 +1,4 @@
 # Artificial-Intelligence
-Uninformed/Informed(heuristic) search
-MDP-Reinfocement Learning
+Uninformed/Informed(heuristic) search,
+MDP-Reinfocement Learning,
 Uncertainty
